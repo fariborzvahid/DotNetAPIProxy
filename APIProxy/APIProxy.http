@@ -1,0 +1,6 @@
+@APIProxy_HostAddress = http://localhost:5036
+
+GET {{APIProxy_HostAddress}}/
+Accept: application/json
+
+###
