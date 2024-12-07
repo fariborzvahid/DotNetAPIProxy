@@ -6,6 +6,8 @@
 
 The API Proxy Application is a middleware solution that allows you to forward requests from clients to backend APIs seamlessly. Built with ASP.NET Core, this application aims to simplify API interactions by providing a unified interface for multiple services.
 
+![APiProxyDiagram](docs/APIProxyDiagram01.jpg)
+
 ## Features
 
 - Forward HTTP requests (GET, POST, PUT, DELETE)
