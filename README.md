@@ -235,8 +235,9 @@ app.MapHealthChecks("/health");
 
 # Check proxy health
 curl https://your-api.com/health
+```
 Log Format
-json
+```json
 {
   "Timestamp": "2024-01-15T10:30:00Z",
   "Level": "Information",
